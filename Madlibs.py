@@ -1,7 +1,7 @@
 
 Adjective1 = input("Enter an adjective: ")
 PropNoun1 = input("Enter a proper noun: ")
-Noun1 = input("Enter an animal(plural)he : ")
+Noun1 = input("Enter an animal(plural) : ")
 Verb1 = input("Enter a verb: ")
 PlurNoun1 = input("Enter a plural noun: ")
 PropNoun2 = input("Enter a proper noun: ")
